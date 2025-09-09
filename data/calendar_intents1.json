@@ -1,0 +1,1608 @@
+{
+  "classes": [
+    "calendar_infoprovided",
+    "calendar_noinfo"
+  ],
+  "data": [
+    {
+      "texts": "remind me later",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "make an appointment",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "put something in my calendar",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "put doctor visit in my calendar for thursday at 3 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "set dentist appointment on october 2nd at 9 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "let\u2019s schedule",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "schedule a meeting with Mike on next tuesday at 6 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "schedule something for me",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "plan a call with Sarah next monday afternoon",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "book a date soon",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "plan a call with Emma saturday afternoon",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "add conference call with Rachel on friday at 9 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "help me plan something",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "plan a call with John october 2nd afternoon",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "let\u2019s schedule",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "remind me about the workshop on wednesday at 3 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "arrange meeting on tomorrow at 2 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "book lunch with Rachel next this friday at 9 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "put something in my calendar",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "add conference call with John on next tuesday at 6 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "put birthday party in my calendar for june 15th at 2 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "schedule a meeting with Sarah on wednesday at 4:30 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "create a slot",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "arrange meeting on tomorrow at 9 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "schedule a meeting with Mike on next tuesday at 9 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "create a slot",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "make an appointment",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "can you set a time?",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "book lunch with David next tuesday at 11 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "add conference call with Emma on monday at 11 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "book a date soon",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "put something in my calendar",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "put team sync in my calendar for october 2nd at 4:30 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "create a slot",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "create a slot",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "schedule a meeting with Emma on next monday at 11 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "book a date soon",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "arrange meeting on next monday at 12 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "add a new event",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "add conference call with Rachel on wednesday at 11 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "schedule a meeting with David on june 15th at 4:30 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "plan a call with Emma next tuesday afternoon",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "add a new event",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "remind me about the project deadline on next tuesday at 9 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "put project deadline in my calendar for next monday at 11 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "remind me later",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "arrange meeting on tomorrow at 4:30 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "let\u2019s schedule",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "arrange meeting on tuesday at 3 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "schedule a meeting with Rachel on october 2nd at 4:30 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "remind me about the birthday party on saturday at 9 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "put birthday party in my calendar for next monday at 6 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "put doctor visit in my calendar for june 15th at 2 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "book a date soon",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "put something in my calendar",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "help me plan something",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "book a date soon",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "schedule a meeting with Emma on friday at 3 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "schedule something for me",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "make an appointment",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "schedule something for me",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "schedule a meeting with John on thursday at 2 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "book a date soon",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "book lunch with David next wednesday at 4:30 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "book lunch with Sarah next thursday at 2 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "arrange meeting on friday at 4:30 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "set dentist appointment on this friday at 12 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "add a new event",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "set dentist appointment on next monday at 2 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "remind me about the project deadline on next tuesday at 3 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "add a new event",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "set dentist appointment on wednesday at 6 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "schedule a meeting with David on tuesday at 3 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "book a date soon",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "add conference call with Sarah on next monday at 12 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "remind me later",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "let\u2019s schedule",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "book lunch with John next next monday at 9 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "make an appointment",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "book a date soon",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "set dentist appointment on wednesday at 3 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "plan a call with Emma friday afternoon",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "create a slot",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "set dentist appointment on wednesday at 6 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "can you set a time?",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "make an appointment",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "put workshop in my calendar for next tuesday at 2 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "remind me about the birthday party on this friday at 4:30 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "book lunch with Sarah next june 15th at 12 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "put something in my calendar",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "add conference call with Emma on tomorrow at 9 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "create a slot",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "set dentist appointment on thursday at 3 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "book lunch with David next tuesday at 3 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "schedule a meeting with Rachel on friday at 4:30 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "add conference call with Rachel on sunday at 12 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "let\u2019s schedule",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "plan a call with Mike tomorrow afternoon",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "schedule something for me",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "set dentist appointment on thursday at 11 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "schedule something for me",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "add a new event",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "arrange meeting on friday at 2 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "add conference call with Rachel on june 15th at 6 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "remind me about the doctor visit on friday at 4:30 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "put workshop in my calendar for next tuesday at 6 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "schedule something for me",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "put something in my calendar",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "set dentist appointment on monday at 11 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "schedule a meeting with Rachel on next monday at 11 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "add a new event",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "can you set a time?",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "can you set a time?",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "set dentist appointment on tuesday at 4:30 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "add conference call with Mike on sunday at 4:30 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "plan a call with Rachel october 2nd afternoon",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "book a date soon",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "book lunch with David next next monday at 6 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "add conference call with Sarah on next tuesday at 2 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "add conference call with David on tuesday at 9 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "remind me later",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "arrange meeting on friday at 3 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "make an appointment",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "arrange meeting on this friday at 12 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "make an appointment",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "book a date soon",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "can you set a time?",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "schedule a meeting with Mike on tuesday at 2 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "plan a call with Rachel friday afternoon",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "add conference call with David on next tuesday at 3 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "add a new event",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "schedule a meeting with Mike on next tuesday at 9 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "add conference call with Rachel on thursday at 3 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "create a slot",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "let\u2019s schedule",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "schedule something for me",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "let\u2019s schedule",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "schedule a meeting with Rachel on next tuesday at 6 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "make an appointment",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "remind me about the birthday party on friday at 2 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "arrange meeting on thursday at 11 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "remind me about the workshop on wednesday at 3 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "make an appointment",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "arrange meeting on wednesday at 6 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "arrange meeting on next tuesday at 9 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "book a date soon",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "put something in my calendar",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "book lunch with John next october 2nd at 2 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "schedule something for me",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "create a slot",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "book a date soon",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "add a new event",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "book a date soon",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "make an appointment",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "put something in my calendar",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "make an appointment",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "put doctor visit in my calendar for tomorrow at 3 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "put something in my calendar",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "put something in my calendar",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "plan a call with Emma next tuesday afternoon",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "plan a call with John saturday afternoon",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "schedule something for me",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "set dentist appointment on june 15th at 11 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "can you set a time?",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "put team sync in my calendar for wednesday at 2 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "put something in my calendar",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "can you set a time?",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "add conference call with Rachel on next monday at 6 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "arrange meeting on tuesday at 6 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "schedule a meeting with Rachel on monday at 3 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "let\u2019s schedule",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "arrange meeting on june 15th at 6 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "set dentist appointment on next monday at 9 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "arrange meeting on wednesday at 9 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "add conference call with Rachel on tomorrow at 12 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "put team sync in my calendar for this friday at 6 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "let\u2019s schedule",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "help me plan something",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "let\u2019s schedule",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "can you set a time?",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "add a new event",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "schedule a meeting with David on friday at 6 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "book lunch with Rachel next sunday at 11 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "can you set a time?",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "remind me later",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "add a new event",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "remind me about the project deadline on next tuesday at 12 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "make an appointment",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "create a slot",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "let\u2019s schedule",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "put project deadline in my calendar for sunday at 11 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "remind me about the project deadline on monday at 12 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "book a date soon",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "create a slot",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "remind me later",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "create a slot",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "schedule a meeting with Rachel on june 15th at 9 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "add a new event",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "add a new event",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "plan a call with David wednesday afternoon",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "schedule a meeting with John on saturday at 9 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "schedule something for me",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "add conference call with Sarah on october 2nd at 4:30 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "make an appointment",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "book lunch with Rachel next friday at 12 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "schedule something for me",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "add conference call with Emma on saturday at 4:30 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "arrange meeting on thursday at 2 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "put team sync in my calendar for tuesday at 4:30 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "add a new event",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "plan a call with Emma june 15th afternoon",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "help me plan something",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "schedule something for me",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "help me plan something",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "add a new event",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "let\u2019s schedule",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "arrange meeting on next tuesday at 4:30 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "schedule a meeting with Mike on saturday at 2 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "schedule something for me",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "remind me about the interview on next monday at 11 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "help me plan something",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "remind me about the doctor visit on june 15th at 11 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "add a new event",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "set dentist appointment on next tuesday at 9 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "set dentist appointment on tuesday at 12 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "plan a call with David this friday afternoon",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "remind me later",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "book lunch with Sarah next wednesday at 3 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "help me plan something",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "help me plan something",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "add a new event",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "make an appointment",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "help me plan something",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "book a date soon",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "put something in my calendar",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "add conference call with Emma on wednesday at 11 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "schedule a meeting with John on next monday at 9 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "remind me about the team sync on monday at 12 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "put team sync in my calendar for monday at 6 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "create a slot",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "can you set a time?",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "book a date soon",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "add a new event",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "schedule a meeting with Rachel on thursday at 11 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "add conference call with Mike on friday at 4:30 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "put something in my calendar",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "make an appointment",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "set dentist appointment on friday at 9 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "set dentist appointment on june 15th at 12 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "plan a call with John saturday afternoon",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "let\u2019s schedule",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "book a date soon",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "schedule something for me",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "book a date soon",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "book a date soon",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "plan a call with John tomorrow afternoon",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "book a date soon",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "can you set a time?",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "arrange meeting on sunday at 12 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "add a new event",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "arrange meeting on tomorrow at 4:30 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "put something in my calendar",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "book a date soon",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "book lunch with David next next tuesday at 9 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "remind me about the team sync on next monday at 12 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "schedule something for me",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "plan a call with David october 2nd afternoon",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "book a date soon",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "remind me about the project deadline on june 15th at 11 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "book lunch with David next october 2nd at 6 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "add conference call with David on thursday at 6 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "book a date soon",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "add a new event",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "set dentist appointment on june 15th at 4:30 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "schedule something for me",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "let\u2019s schedule",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "book a date soon",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "put project deadline in my calendar for october 2nd at 3 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "add conference call with Emma on friday at 12 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "put team sync in my calendar for monday at 3 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "book a date soon",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "add conference call with Mike on tomorrow at 2 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "remind me about the interview on next tuesday at 4:30 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "remind me about the team sync on monday at 3 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "create a slot",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "add a new event",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "schedule a meeting with Rachel on tuesday at 12 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "set dentist appointment on friday at 11 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "plan a call with Rachel monday afternoon",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "plan a call with Rachel october 2nd afternoon",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "can you set a time?",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "remind me later",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "make an appointment",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "help me plan something",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "remind me later",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "remind me later",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "put something in my calendar",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "remind me later",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "schedule a meeting with Emma on tomorrow at 6 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "schedule something for me",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "remind me about the workshop on this friday at 11 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "book lunch with David next october 2nd at 4:30 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "schedule a meeting with Rachel on next tuesday at 6 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "add conference call with John on tomorrow at 2 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "create a slot",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "add a new event",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "schedule a meeting with Rachel on wednesday at 9 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "book lunch with Emma next next tuesday at 11 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "add a new event",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "schedule a meeting with John on monday at 6 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "add conference call with Mike on wednesday at 6 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "book lunch with Sarah next wednesday at 12 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "set dentist appointment on tuesday at 4:30 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "schedule a meeting with Rachel on tomorrow at 11 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "make an appointment",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "book a date soon",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "create a slot",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "book a date soon",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "arrange meeting on october 2nd at 3 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "add a new event",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "remind me about the project deadline on wednesday at 4:30 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "schedule a meeting with Emma on saturday at 2 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "create a slot",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "put interview in my calendar for tuesday at 4:30 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "remind me about the birthday party on thursday at 4:30 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "book a date soon",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "remind me about the doctor visit on tomorrow at 2 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "set dentist appointment on this friday at 9 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "add a new event",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "arrange meeting on this friday at 9 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "add conference call with Emma on saturday at 3 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "schedule something for me",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "remind me about the project deadline on tomorrow at 12 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "put interview in my calendar for wednesday at 9 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "make an appointment",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "add conference call with Mike on tomorrow at 9 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "help me plan something",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "can you set a time?",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "book lunch with Sarah next monday at 3 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "schedule something for me",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "arrange meeting on next tuesday at 4:30 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "let\u2019s schedule",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "set dentist appointment on next tuesday at 12 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "add conference call with David on saturday at 11 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "arrange meeting on next monday at 4:30 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "plan a call with David monday afternoon",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "put something in my calendar",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "add conference call with Mike on wednesday at 12 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "let\u2019s schedule",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "can you set a time?",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "plan a call with David tuesday afternoon",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "schedule a meeting with Mike on this friday at 2 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "add a new event",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "schedule a meeting with Sarah on next tuesday at 4:30 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "help me plan something",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "set dentist appointment on tomorrow at 9 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "set dentist appointment on thursday at 9 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "create a slot",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "book lunch with Rachel next monday at 3 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "schedule something for me",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "arrange meeting on saturday at 12 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "remind me later",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "can you set a time?",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "let\u2019s schedule",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "remind me about the doctor visit on wednesday at 2 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "remind me later",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "remind me later",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "schedule something for me",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "put something in my calendar",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "arrange meeting on monday at 3 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "can you set a time?",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "help me plan something",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "create a slot",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "help me plan something",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "add a new event",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "remind me about the project deadline on next monday at 4:30 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "add conference call with Mike on thursday at 9 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "add conference call with Mike on june 15th at 3 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "book a date soon",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "create a slot",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "arrange meeting on october 2nd at 6 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "book lunch with Sarah next wednesday at 3 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "book a date soon",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "create a slot",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "arrange meeting on monday at 11 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "book a date soon",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "schedule a meeting with Mike on next monday at 4:30 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "help me plan something",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "put something in my calendar",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "plan a call with Emma june 15th afternoon",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "book a date soon",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "remind me about the project deadline on next monday at 9 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "set dentist appointment on wednesday at 9 am",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "put something in my calendar",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "set dentist appointment on tuesday at 6 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "make an appointment",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "let\u2019s schedule",
+      "labels": "calendar_noinfo"
+    },
+    {
+      "texts": "plan a call with Rachel june 15th afternoon",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "set dentist appointment on monday at 4:30 pm",
+      "labels": "calendar_infoprovided"
+    },
+    {
+      "texts": "put workshop in my calendar for october 2nd at 6 pm",
+      "labels": "calendar_infoprovided"
+    }
+  ]
+}
